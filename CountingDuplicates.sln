@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicates", "CountingDuplicates\CountingDuplicates.csproj", "{1CFBFA7B-33CF-4281-BAFB-B8BDD395A60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingDuplicatesTests", "CountingDuplicatesTests\CountingDuplicatesTests.csproj", "{69DC6E8B-7633-4051-988D-CDB67FD4998E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CFBFA7B-33CF-4281-BAFB-B8BDD395A60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFBFA7B-33CF-4281-BAFB-B8BDD395A60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFBFA7B-33CF-4281-BAFB-B8BDD395A60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFBFA7B-33CF-4281-BAFB-B8BDD395A60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69DC6E8B-7633-4051-988D-CDB67FD4998E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DC6E8B-7633-4051-988D-CDB67FD4998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DC6E8B-7633-4051-988D-CDB67FD4998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DC6E8B-7633-4051-988D-CDB67FD4998E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73BF459-950B-42F1-AFF8-F018BEAAD6CD}
+	EndGlobalSection
+EndGlobal
